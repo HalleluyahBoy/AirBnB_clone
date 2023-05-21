@@ -16,5 +16,4 @@
 * Style guidelines: ```./wc3validator.py [filename]```
 * Preview: paste index.html link and run on: http://htmlpreview.github.io/?
 
-###Author
-Ejimone Evidence
+### Ejimone Evidence
